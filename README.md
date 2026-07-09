@@ -7,7 +7,7 @@ Currently, I'm focusing on improving my programming skills, building projects, a
 
 <br>
 
-- 💻 **Heritage Institute of Technology Student | Developer**
+- 💻 **1st Year Student at Heritage Institute of Technology | Developer**
 - 🌐 Building responsive & modern applications
 - 🚀 Learning daily, growing consistently
 
